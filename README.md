@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App by using React hooks (useState, useEffect and useReducer)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
